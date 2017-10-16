@@ -1,0 +1,11 @@
+To do:
+- [ ] Get a higher resolution GECo logo.
+- [ ] Make the header look better.
+- [ ] Put photos/titles in the group section.
+- [ ] Take a new group photo.
+- [ ] Add an outreach section with list of events and photos from outreach.
+- [ ] Update papers section to have all listed (maybe find a tool to take bibliography to HTML?).
+- [ ] Format the publications correctly (not with 5 random spaces, line breaks, etc.).
+- [ ] Conferences/events section?
+- [ ] Media section
+- [ ] Make sure site is acceptable on mobile, small windows, etc.
