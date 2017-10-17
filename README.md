@@ -9,3 +9,4 @@ To do:
 - [ ] Conferences/events section?
 - [ ] Media section
 - [ ] Make sure site is acceptable on mobile, small windows, etc.
+- [ ] Change wording on homepage from 'over 15 years ago' to something that will age better.
