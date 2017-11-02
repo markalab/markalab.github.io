@@ -41,6 +41,8 @@ The entire youtube playlist can be found
 
 ## 07 *Radio* (G. Hallinan, Caltech)
 
+[Slides](https://www.dropbox.com/s/n42uc4h8ok52xy7/Hallinan_radio.pptx?dl=0)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/enJi5i3SkIU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## O8 *Historical Overview: BNS Mergers and the r-Process* (J. Lattimer, Stony Brook)
