@@ -19,6 +19,8 @@ The entire youtube playlist can be found
 
 ## 03 *Overview: EM Follow-Up* (B. Cenko, GSFC)
 
+[Slides](https://www.dropbox.com/s/qm47k6f0ov35utm/Columbia_Cenko.pdf?dl=0)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y2ysHSElNaM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## 04 *GRB Jets* (A. MacFadyen, NYU)
